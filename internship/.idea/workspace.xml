@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce460da4-0786-4e02-88c3-222619772622" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/myleave/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myleave/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myleave/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/04 Table of Contents.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/1 Front Sheet Internship-1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/2 Intern Ack and TOC.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/EMPLOYEE_MANAGEMENT_SYSTEM.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Internship Document Template 2020.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/documentation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/.idea/leave.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/migrations/0002_auto_20170828_1647.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/migrations/0003_auto_20170830_2036.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/migrations/0004_leave_forward.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/migrations/0005_remainingleaves_year.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/migrations/0006_auto_20170831_1319.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/migrations/0007_auto_20170831_1344.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/migrations/0008_auto_20170831_1435.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/migrations/0009_auto_20170901_1155.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/migrations/0010_auto_20200326_1926.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/data-tables/data-tables.bootstrap4.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/data-tables/data-tables.bootstrap4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/data-tables/jquery.data-tables.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/dropdown/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/dropdown/js/script.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/formoid/formoid.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/images/basic3-154-infinity-1092x1007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/images/basic3-154-infinity-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/images/hashes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/images/praju.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/images/yp.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/mobirise/css/mbr-additional.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/popper/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/smooth-scroll/smooth-scroll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/socicon/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/socicon/fonts/socicon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/socicon/fonts/socicon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/socicon/fonts/socicon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/socicon/fonts/socicon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/tether/tether.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/tether/tether.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/theme/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/theme/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/touch-swipe/jquery.touch-swipe.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/viewport-checker/jquery.viewportchecker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/web/assets/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/web/assets/mobirise-icons/mobirise-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/web/assets/mobirise-icons/mobirise-icons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/web/assets/mobirise-icons/mobirise-icons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/web/assets/mobirise-icons/mobirise-icons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/static/leave/assets/web/assets/mobirise-icons/mobirise-icons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/confirmsanction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/forwardsanction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/incorrectuserpass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/insufficientleaves.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/landing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/leaveapprove.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/leaveconfirm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/leaverejectioninfo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/logout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/newleave.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/rejectapplication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/sanction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/templates/leave/viewleaves.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/home/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/leave/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/leave/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/leave/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/leave/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/Leave-Module-master/leave/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/documentation (1).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/documentation.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myleave/documentation.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/myleave" />
+  </component>
+  <component name="ProjectId" id="1aFovToHsf7Ba02uPHRuiGrT13f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce460da4-0786-4e02-88c3-222619772622" name="Default Changelist" comment="" />
+      <created>1586340936310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586340936310</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1586340970363">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586340970363" />
+  </component>
+</project>
